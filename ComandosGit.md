@@ -56,3 +56,7 @@ p/ entrar em uma pasta
 -> clear 
 
 -> git pull
+p/ puxar arquivo p/ máquina
+
+-> pull request 
+solicitar alteração p/ ser aceita ou não
