@@ -23,6 +23,8 @@ P/ inicializar um novo repositório do git ou converter um projeto existente
 -> git add Comandos GitHub.md
 P/ colocar arquivos em estado de staging 
 
+-> git add . 
+
 -> git status 
 
 -> git commit -m "primeiro commit"
@@ -31,5 +33,26 @@ P/ colocar arquivos em estado de staging
 Boa prática!! 
 
 -> git remote add origin +link do repositório
+Só cria a conexão uma vez
 
 -> git push -u origin main 
+
+-> git checkout -b "novo-botao"
+Sai da branch em que estou e cria uma nova branch 
+
+-> git checkout main 
+Volta para branch principal 
+
+-> git checkout novo-botao
+
+-> git merge novo-botao
+após isso git push origin main 
+
+-> git clone 
+
+-> cd gittutorial
+p/ entrar em uma pasta
+
+-> clear 
+
+-> git pull
